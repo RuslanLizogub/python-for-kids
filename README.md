@@ -3,7 +3,7 @@
 ```
 https://dut.edu.ua/uploads/l_548_73121704.pdf
 ```
-# Ответы на домашку
+# HM answers
 ``` 
 https://nostarch.com/download/PythonForKidsSolutions.pdf
 ```
